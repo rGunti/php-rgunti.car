@@ -39,7 +39,6 @@ require_once 'config.php';
     <link rel="stylesheet" href="/css/iconfont/material-icons.css" />
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/css/material-kit.css" />
-    <link rel="stylesheet" href="/css/datatables.min.css" />
     <link rel="stylesheet" href="/css/custom.css" />
 
     <script src="/js/jquery-3.2.1.min.js"></script>
